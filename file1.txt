@@ -3,3 +3,5 @@ changing after merge branch b2
 changing again
 first file made in branch-1
 - add comment when conflict resolve from rebase main branch 
+
+rebase -i testing
