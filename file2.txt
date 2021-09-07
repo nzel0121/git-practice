@@ -1,5 +1,6 @@
-add file2 made by bran-1 when after rebase
+sksks add file2 made by branch-1 when after rebase
+
 change file2 b-2 branch
-change by b-2 branch
+
 add change by b-1
 
