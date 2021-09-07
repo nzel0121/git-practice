@@ -1,4 +1,4 @@
-file1 change b-1 branch
+chagne 1 file1 change b-1 branch
 changing after merge branch b2
 changing again
 first file made in branch-1
